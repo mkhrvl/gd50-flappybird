@@ -9,7 +9,7 @@ URL: https://cs50.harvard.edu/games/2018/projects/1/flappy/
 Code Location
 
 main.lua <br />
-&nbsp;&nbsp;&nbsp;lines 41, 97
+&emsp;lines 41, 97
 
 PipePair.lua <br />
 &nbsp;&nbsp;&nbsp;lines 4, 12, 27
